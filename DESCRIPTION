@@ -1,6 +1,6 @@
 Package: QRISK3
 Title: 10-Year Cardiovascular Disease Risk Calculator (QRISK3 2017)
-Version: 0.3.0
+Version: 0.4.0
 Author: Yan Li <bluefatterplaydota@gmail.com> [aut, cre, trl],
         Matthew Sperrin [aut, ctb],
 		ClinRisk Ltd. [cph],
@@ -11,8 +11,8 @@ Copyright: file inst/COPYRIGHTS
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.0.0
+RoxygenNote: 7.2.0
 NeedsCompilation: no
-Packaged: 2019-11-26 01:49:21 UTC; TomGauss
+Packaged: 2022-11-21 11:33:07 UTC; legendmiao
 Repository: CRAN
-Date/Publication: 2019-12-06 09:30:02 UTC
+Date/Publication: 2022-11-21 12:10:02 UTC
