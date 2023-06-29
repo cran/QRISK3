@@ -11,7 +11,7 @@ An object of class \code{data.frame} with 49 rows and 27 columns.
 data(QRISK3_2019_test)
 }
 \description{
-Data from QRISK3 original algorithm (C code) in 2019 <https://qrisk.org/three/src.php>.
+Data from QRISK3 original algorithm (C code) in 2019.
 The aim is to compare whether this package calculates the same score as the original algorithm.
 "QRISK_C_algorithm_score" in dataset is the score calculated using original algorithm in 2019. 
 It should give the same score as this package.
